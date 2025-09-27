@@ -5,4 +5,4 @@
 <h1 align="center"> Hi, I'm Aatish Arote </br> 
 </h1>
 <p align="center">Data Analyst | Data Scientist </p>
-<p align="center">Evolve or dissolve</p>
+<p align="center">Dare to begin, dare to win.</p>
