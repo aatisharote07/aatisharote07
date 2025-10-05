@@ -7,7 +7,7 @@
 <p align="center">Data Analyst | Data Scientist </p>
 <p align="center">Either live with experience or die with regret</p>
 
-# 💻 Tech Stack:
+## 💻 Tech Stack:
 
 ### 🌐 Languages:
 ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
