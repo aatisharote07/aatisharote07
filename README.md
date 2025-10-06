@@ -8,8 +8,8 @@
 <p align="center">Either live with experience or die with regret</p>
 
 I’m currently an **Intern at Infosys Springboard**  
-Exploring the endless possibilities of **AI, ML, and Data Science**.  
-Experimenting with **models, pipelines, and MLOps** to turn ideas into impact.
+- Exploring the endless possibilities of **AI, ML, and Data Science**.  
+- Experimenting with **models, pipelines, and MLOps** to turn ideas into impact.
 
  
 ## Highlighted Projects 👨‍💻 
