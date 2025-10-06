@@ -7,16 +7,9 @@
 <p align="center">Data Analyst | Data Scientist </p>
 <p align="center">Either live with experience or die with regret</p>
 
-### 🧠 Data Analyst & Machine Learning Enthusiast | 🐍 Python Developer | Transforming Data into Decisions 📊  
-
-Welcome to my GitHub — where I analyze, automate, and bring data to life 🚀  
-
+ 
 I’m currently an **Intern at Infosys Springboard**, where I’m:  
-- 🧩 Designing interactive dashboards in **Power BI** to uncover real-time business insights.  
-- Solving a Real life Project.  
-
----
-
+ 
 ### 💼 Projects  
 
 🏙 **[Real Estate Analytics App](https://github.com/aatisharote07/REAL_ESTATE_ANALYTICS_APP)**  
