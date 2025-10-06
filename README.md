@@ -8,7 +8,7 @@
 <p align="center">Either live with experience or die with regret</p>
 
  
-I’m currently an **Intern at Infosys Springboard**, where I’m:  
+I’m currently an **Intern at Infosys Springboard**  
  
 ### 💼 Projects  
 
