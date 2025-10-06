@@ -17,7 +17,7 @@
 🏙 **[Real Estate Analytics App](https://github.com/aatisharote07/REAL_ESTATE_ANALYTICS_APP)**  
 *Machine learning–powered property price prediction using Flask, Scikit-Learn & Pandas.*
 
-📈 **[Sales Forecasting Dashboard](https://github.com/aatisharote07/SALES_DATA_FORECASTING)**  
+📈 **[Sales Prediction]([(https://github.com/aatisharote07/SALES-PREDICTION)])**  
 *Sales trend analysis with Python and data visualization.*
 
 🎬 **[Movie Recommendation System](https://github.com/aatisharote07/MOVIE_RECOMMENDATION_SYSTEM)**  
