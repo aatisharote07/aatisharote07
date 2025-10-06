@@ -10,7 +10,7 @@
  
 I’m currently an **Intern at Infosys Springboard**  
  
-### 💼 Projects  
+## Highlighted Projects 👨‍💻 
 
 🏙 **[Real Estate Analytics App](https://github.com/aatisharote07/REAL_ESTATE_ANALYTICS_APP)**  
 *Machine learning–powered property price prediction using Flask, Scikit-Learn & Pandas.*
@@ -24,13 +24,26 @@ I’m currently an **Intern at Infosys Springboard**
  
 
 
-## 💻 Tech Stack:
+## 🧰 Tech Stack  
 
-### 🌐 Languages:
-![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
-![SQL](https://img.shields.io/badge/SQL-00000F?style=for-the-badge&logo=mysql&logoColor=white)
-### 📊 Data Science & ML Libraries:
-![Matplotlib](https://img.shields.io/badge/Matplotlib-%23ffffff.svg?style=for-the-badge&logo=Matplotlib&logoColor=black)
-![NumPy](https://img.shields.io/badge/numpy-%23013243.svg?style=for-the-badge&logo=numpy&logoColor=white)
-![Pandas](https://img.shields.io/badge/pandas-%23150458.svg?style=for-the-badge&logo=pandas&logoColor=white)
-![scikit-learn](https://img.shields.io/badge/scikit--learn-%23F7931E.svg?style=for-the-badge&logo=scikit-learn&logoColor=white)
+**Languages**  
+`Python` `SQL`
+
+**Libraries & Frameworks**  
+`NumPy` `Pandas` `Matplotlib` `Seaborn` `Scikit-Learn` `Flask`
+
+**Data Visualization**  
+`Power BI` `Tableau` `Matplotlib` `Seaborn`
+
+**Databases**  
+`MySQL`
+
+**Cloud Platforms**  
+`AWS (S3, EC2, Lambda)` `Microsoft Azure`
+
+**Tools & Environments**  
+`Jupyter Notebook` `Git` `Microsoft Excel`
+
+**Machine Learning Techniques**  
+`Regression Models` `Feature Engineering` `Data Cleaning` `NLP` `Cross-Validation` `Model Evaluation`
+
