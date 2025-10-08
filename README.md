@@ -15,7 +15,7 @@
 ## Highlighted Projects 👨‍💻 
 
 🏙 **[Real Estate Analytics App](https://github.com/aatisharote07/REAL_ESTATE_ANALYTICS_APP)**  
-*Machine learning–powered property price prediction using Flask, Scikit-Learn & Pandas.*
+*Machine learning–powered property price prediction & recommendation using Flask, Scikit-Learn & Pandas.*
 
 📈 **[Sales Prediction](https://github.com/aatisharote07/SALES-PREDICTION)**  
 *Sales trend analysis with Python and data visualization.*
