@@ -63,8 +63,9 @@
   <a href="https://leetcode.com/u/Aatish09/"><img src="https://img.shields.io/badge/LeetCode-000?logo=leetcode&logoColor=FFA116&style=for-the-badge"/></a>
   <a href="https://www.kaggle.com/aatisharote"><img src="https://img.shields.io/badge/Kaggle-000?logo=kaggle&logoColor=20BEFF&style=for-the-badge"/></a>
   <a href="mailto:aatisharote07@gmail.com" target="_blank">
-        <img src="https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white&style=for-the-badge" />
-    </a>
+  <img src="https://img.shields.io/badge/Email-000?logo=gmail&logoColor=D14836&style=for-the-badge" />
+   </a>
+
 </p>
 
 
