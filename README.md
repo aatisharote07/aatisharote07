@@ -17,11 +17,13 @@
 🏙 **[Real Estate Analytics App](https://github.com/aatisharote07/REAL_ESTATE_ANALYTICS_APP)**  
 *Machine learning–powered property price prediction & recommendation using Flask, Scikit-Learn & Pandas.*
 
+🌍 **[TOURISM AI](https://github.com/aatisharote07/TOURISM_AI)**  
+*Power BI-driven global travel analytics platform.*
+
 📈 **[Sales Prediction](https://github.com/aatisharote07/SALES-PREDICTION)**  
 *Sales trend analysis with Python and data visualization.*
 
-🎬 **[Movie Recommendation System](https://github.com/aatisharote07/MOVIE_RECOMMENDATION_SYSTEM)**  
-*Content-based NLP recommender using Scikit-learn & Cosine Similarity.*
+
 
  
 
