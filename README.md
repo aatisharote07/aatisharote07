@@ -54,7 +54,6 @@
 ### 📊 GitHub Stats
 
 ![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=aatisharote07&theme=radical&hide_border=true)
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=aatisharote07&show_icons=true&theme=radical&hide_border=true)
 
 
 ## 🌐 Socials
