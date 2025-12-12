@@ -51,10 +51,6 @@
 **Machine Learning Techniques**  
 `Regression Models` `Feature Engineering` `Data Cleaning` `NLP` `Cross-Validation` `Model Evaluation`
 
-### 📊 GitHub Stats
-
-![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=aatisharote07&theme=radical&hide_border=true)
-
 
 ## 🌐 Socials
 
