@@ -5,7 +5,7 @@
 <h1 align="center"> Hi, I'm Aatish Arote </br> 
 </h1>
 <p align="center">Data Analyst | Data Scientist </p>
-<p align="center">Either live with experience or die with regret.</p>
+<p align="center">Live by effort, or live with regret.</p>
 
 - I’m currently an **Intern at Infosys Springboard**  
 - Exploring the endless possibilities of **AI, ML, and Data Science**.  
