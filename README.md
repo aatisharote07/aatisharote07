@@ -51,6 +51,12 @@
 **Machine Learning Techniques**  
 `Regression Models` `Feature Engineering` `Data Cleaning` `NLP` `Cross-Validation` `Model Evaluation`
 
+## 📈 GitHub Stats
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=aatisharote07&show_icons=true&theme=tokyonight" />
+</p>
+
 
 ## 🌐 Socials
 
