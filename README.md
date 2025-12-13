@@ -23,8 +23,6 @@
 📈 **[Sales Prediction](https://github.com/aatisharote07/SALES-PREDICTION)**  
 *Sales trend analysis with Python and data visualization.*
 
-
-
  
 
 
@@ -57,6 +55,12 @@
   <img src="https://github-readme-stats.vercel.app/api?username=aatisharote07&show_icons=true&theme=tokyonight" />
 </p>
 
+
+## 🤝 Let’s Connect
+
+- Open to **Data Analyst / Data Science roles**  
+- Happy to collaborate on **analytics, ML, or open-source projects**  
+- Always open to learning from industry professionals
 
 ## 🌐 Socials
 
