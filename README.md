@@ -47,7 +47,7 @@
 `Jupyter Notebook` `Git` `Microsoft Excel`
 
 **Machine Learning Techniques**  
-`Regression Models` `Feature Engineering` `Data Cleaning` `NLP` `Cross-Validation` `Model Evaluation`
+`Regression Models` `Feature Engineering` `Data Cleaning` `Cross-Validation` `Model Evaluation`
 
 ## 📈 GitHub Stats
 
