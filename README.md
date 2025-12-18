@@ -65,7 +65,9 @@
 ## 🌐 Socials
 
 <p align="center">
-  <a href="https://www.linkedin.com/in/aatisharote/"><img src="https://img.shields.io/badge/LinkedIn-000?logo=linkedin&logoColor=0A66C2&style=for-the-badge"/></a>
+<a href="https://www.linkedin.com/in/aatisharote/">
+  <img src="https://img.shields.io/badge/LinkedIn-0A66C2?logo=linkedin&logoColor=white&style=for-the-badge"/>
+</a>
   <a href="https://www.codechef.com/users/aatish07"><img src="https://img.shields.io/badge/CodeChef-000?logo=codechef&logoColor=EF3A2D&style=for-the-badge"/></a>
   <a href="https://leetcode.com/u/Aatish09/"><img src="https://img.shields.io/badge/LeetCode-000?logo=leetcode&logoColor=FFA116&style=for-the-badge"/></a>
   <a href="https://www.kaggle.com/aatisharote"><img src="https://img.shields.io/badge/Kaggle-000?logo=kaggle&logoColor=20BEFF&style=for-the-badge"/></a>
