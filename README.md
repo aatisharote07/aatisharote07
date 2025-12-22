@@ -58,9 +58,9 @@
 
 ## 🤝 Let’s Connect
 
-- Open to **Data Analyst / Data Science roles**  
-- Happy to collaborate on **analytics, ML, or open-source projects**  
-- Always open to learning from industry professionals
+- Open to **Data Analyst / Data Science roles**. 
+- Happy to collaborate on **analytics, ML, or open-source projects** . 
+- Always open to learning from industry professionals.
 
 ## 🌐 Socials
 
