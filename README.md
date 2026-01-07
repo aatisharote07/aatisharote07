@@ -20,10 +20,14 @@
 🌍 **[TOURISM AI](https://github.com/aatisharote07/TOURISM_AI)**  
 *Power BI-driven global travel analytics platform.*
 
-📈 **[Sales Prediction](https://github.com/aatisharote07/SALES-PREDICTION)**  
-*Sales trend analysis with Python and data visualization.*
+🌫 **[Air Quality Analysis](https://github.com/aatisharote07/Air_Quality_Analysis)**  
+*Exploratory data analysis of air pollution levels across India using government open data, focusing on key pollutants (PM2.5, PM10, NO₂, SO₂, CO, O₃) with statistical insights and visualizations.*
 
- 
+🌦 **[Weather Data Integration Pipeline](https://github.com/aatisharote07/weather-data-integration)**  
+*End-to-end data engineering project featuring an ETL pipeline that extracts real-time weather data via APIs, transforms it using Apache Spark, orchestrates workflows with Airflow, and loads structured data into PostgreSQL.*
+
+ 📈 **[Sales Prediction](https://github.com/aatisharote07/SALES-PREDICTION)**  
+*Sales trend analysis with Python and data visualization.*
 
 
 ## 🧰 Tech Stack  
