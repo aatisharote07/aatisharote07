@@ -32,7 +32,7 @@
 
 ## 🧰 Tech Stack  
 
-<h3 align="center">🧰 Tech Stack</h3>
+
 
 <p align="center">
   <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" />
@@ -51,10 +51,14 @@
 
 ## 📈 GitHub Stats
 
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=aatisharote07&show_icons=true&theme=tokyonight" height="180" alt="stats graph" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=aatisharote07&layout=compact&theme=tokyonight" height="180" alt="languages graph" />
-</div>
+
+<p align="center">
+  <img src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=aatisharote07&theme=tokyonight" />
+</p>
+<p align="center">
+  <img src="http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=aatisharote07&theme=tokyonight" />
+  <img src="http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=aatisharote07&theme=tokyonight" />
+</p>
 
 
 ## 🤝 Let’s Connect
