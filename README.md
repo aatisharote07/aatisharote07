@@ -32,39 +32,37 @@
 
 ## 🧰 Tech Stack  
 
-**Languages**  
-`Python` `SQL`
+<h3 align="center">🧰 Tech Stack</h3>
 
-**Libraries & Frameworks**  
-`NumPy` `Pandas` `Matplotlib` `Seaborn` `Scikit-Learn` `Flask`
-
-**Data Visualization**  
-`Power BI` `Tableau` `Matplotlib` `Seaborn`
-
-**Databases**  
-`MySQL`
-
-**Cloud Platforms**  
-`AWS (S3, EC2, Lambda)` `Microsoft Azure`
-
-**Tools & Environments**  
-`Jupyter Notebook` `Git` `Microsoft Excel`
-
-**Machine Learning Techniques**  
-`Regression Models` `Feature Engineering` `Data Cleaning` `Cross-Validation` `Model Evaluation`
+<p align="center">
+  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" />
+  <img src="https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=postgresql&logoColor=white" />
+  
+  <img src="https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white" />
+  <img src="https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white" />
+  <img src="https://img.shields.io/badge/Scikit_Learn-F7931E?style=for-the-badge&logo=scikit-learn&logoColor=white" />
+  
+  <img src="https://img.shields.io/badge/Power_BI-F2C811?style=for-the-badge&logo=powerbi&logoColor=black" />
+  <img src="https://img.shields.io/badge/Tableau-E97627?style=for-the-badge&logo=tableau&logoColor=white" />
+  
+  <img src="https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazon-aws&logoColor=white" />
+  <img src="https://img.shields.io/badge/Azure-0078D4?style=for-the-badge&logo=microsoft-azure&logoColor=white" />
+</p>
 
 ## 📈 GitHub Stats
 
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=aatisharote07&show_icons=true&theme=tokyonight" />
-</p>
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=aatisharote07&show_icons=true&theme=tokyonight" height="180" alt="stats graph" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=aatisharote07&layout=compact&theme=tokyonight" height="180" alt="languages graph" />
+</div>
 
 
 ## 🤝 Let’s Connect
 
-- Open to **Data Analyst / Data Science roles**. 
-- Happy to collaborate on **analytics, ML, or open-source projects** . 
-- Always open to learning from industry professionals.
+- Open to **Data Analyst, Data Science, and Entry-Level Data Engineering roles**
+- Interested in **real-world data problems and scalable systems**
+- Actively seeking **full-time opportunities**
+
 
 ## 🌐 Socials
 
