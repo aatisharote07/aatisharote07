@@ -7,7 +7,8 @@
 <p align="center">Data Analyst | Data Scientist </p>
 <p align="center">Live by effort, or live with regret.</p>
 
-- Currently working as a **Data Analyst Intern at Smollan (Client: Google)** - Previously a Data Visualization Intern at **Infosys Springboard** - Exploring the endless possibilities of **AI, ML, and Data Science**.  
+- Currently working as a **Data Analyst Intern at Smollan (Client: Google)** - Previously a Data Visualization Intern at **Infosys Springboard** 
+- Exploring the endless possibilities of **AI, ML, and Data Science**.  
 - Experimenting with **models, pipelines, and MLOps** to turn ideas into impact.
 
  
