@@ -7,27 +7,21 @@
 <p align="center">Data Analyst | Data Scientist </p>
 <p align="center">Live by effort, or live with regret.</p>
 
-- I recently was an **Intern at Infosys Springboard**  
-- Exploring the endless possibilities of **AI, ML, and Data Science**.  
+- Currently working as a **Data Analyst Intern at Smollan (Client: Google)** - Previously a Data Visualization Intern at **Infosys Springboard** - Exploring the endless possibilities of **AI, ML, and Data Science**.  
 - Experimenting with **models, pipelines, and MLOps** to turn ideas into impact.
 
  
 ## Highlighted Projects 👨‍💻 
 
-🏙 **[Real Estate Analytics App](https://github.com/aatisharote07/REAL_ESTATE_ANALYTICS_APP)**  
-*Machine learning–powered property price prediction & recommendation using Flask, Scikit-Learn & Pandas.*
+🏙 **[Real Estate Analytics App](https://github.com/aatisharote07/REAL_ESTATE_ANALYTICS_APP)** *Machine learning–powered property price prediction & recommendation using Flask, Scikit-Learn & Pandas.*
 
-🌍 **[TOURISM AI](https://github.com/aatisharote07/TOURISM_AI)**  
-*Power BI-driven global travel analytics platform.*
+🌍 **[TOURISM AI](https://github.com/aatisharote07/TOURISM_AI)** *Power BI-driven global travel analytics platform.*
 
-🌫 **[Air Quality Analysis](https://github.com/aatisharote07/Air_Quality_Analysis)**  
-*Exploratory data analysis of air pollution levels across India using government open data, focusing on key pollutants (PM2.5, PM10, NO₂, SO₂, CO, O₃) with statistical insights and visualizations.*
+🌫 **[Air Quality Analysis](https://github.com/aatisharote07/Air_Quality_Analysis)** *Exploratory data analysis of air pollution levels across India using government open data, focusing on key pollutants (PM2.5, PM10, NO₂, SO₂, CO, O₃) with statistical insights and visualizations.*
 
-🌦 **[Weather Data Integration Pipeline](https://github.com/aatisharote07/weather-data-integration)**  
-*End-to-end data engineering project featuring an ETL pipeline that extracts real-time weather data via APIs, transforms it using Apache Spark, orchestrates workflows with Airflow, and loads structured data into PostgreSQL.*
+🌦 **[Weather Data Integration Pipeline](https://github.com/aatisharote07/weather-data-integration)** *End-to-end data engineering project featuring an ETL pipeline that extracts real-time weather data via APIs, transforms and orchestrates workflows using cloud computing, and loads structured data into PostgreSQL.*
 
- 📈 **[Sales Prediction](https://github.com/aatisharote07/SALES-PREDICTION)**  
-*Sales trend analysis with Python and data visualization.*
+ 📈 **[Sales Prediction](https://github.com/aatisharote07/SALES-PREDICTION)** *Sales trend analysis with Python and data visualization.*
 
 
 ## 🧰 Tech Stack  
@@ -80,5 +74,3 @@
    </a>
 
 </p>
-
-
