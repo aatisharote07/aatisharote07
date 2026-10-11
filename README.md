@@ -61,7 +61,7 @@
 
 - Open to **Data Analyst, Data Science, and Entry-Level Data Engineering roles**
 - Interested in **real-world data problems and scalable systems**
-- Actively seeking **full-time opportunities**
+- Actively seeking **full-time opportunities** 
 
 
 ## 🌐 Socials
