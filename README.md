@@ -57,7 +57,7 @@
 </p>
 
 
-## 🤝 Let’s Connect
+## 🤝 Let’s Connect 
 
 - Open to **Data Analyst, Data Science, and Entry-Level Data Engineering roles**
 - Interested in **real-world data problems and scalable systems**
