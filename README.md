@@ -4,7 +4,7 @@
 
 <h1 align="center"> Hi, I'm Aatish Arote </br> 
 </h1>
-<p align="center">Data Analyst | Data Scientist </p>
+<p align="center">Data Analyst | Data Engineer </p>
 <p align="center">Live by effort, or live with regret.</p>
 
 - Currently working as a **Data Analyst Consultant at Smollan (Client: Google)**.
